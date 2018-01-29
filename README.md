@@ -4,6 +4,7 @@ A graphQL request
 - read input from a interface
 - parse into AST
 - resolver function for nodes
-- resolver function for child notes
+- resolver function for children notes
 - ask data services
 - merge data returned from services
+- send response
